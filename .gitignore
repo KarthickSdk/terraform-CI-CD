@@ -1,0 +1,14 @@
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+terraform.tfvars
+override.tf
+override.tf.json
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
